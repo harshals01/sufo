@@ -1,0 +1,8 @@
+
+{
+  "name": "SUFO - Premium UFO Burgers",
+  "description": "A high-end, futuristic family dine-in landing page for SUFO, specializing in premium UFO-shaped burgers with a warm, beige, and minimalist aesthetic.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
